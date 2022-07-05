@@ -27,7 +27,7 @@
     ]
   },
   "dependencies": {
-    "mermaid": "8.5.0"
+    "mermaid": "9.1.2"
   },
   "files": [
     "lib"
